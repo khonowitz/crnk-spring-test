@@ -1,8 +1,8 @@
 crnk:
-  resourcePackage: com.codenotfound.crnk.domain
-  domainName: http://localhost:8080/codenotfound
+  resourcePackage: com.kristin.crnk.domain
+  domainName: http://localhost:8080/kristin
   pathPrefix: /api
 
 server:
-  context-path: /codenotfound
+  context-path: /kristin
   port: 8080
